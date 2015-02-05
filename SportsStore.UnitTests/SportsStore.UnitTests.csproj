@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>0e64f06b-6e15-4d3d-b309-e9c05278e53e</ProjectGuid>
+    <ProjectGuid>{9C07923B-62CB-48D2-AF5B-82239124DE3C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SportsStore.UnitTests</RootNamespace>
